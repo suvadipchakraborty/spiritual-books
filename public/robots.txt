@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://spiritual.books.suvadipchakraborty.workers.dev/sitemap.xml

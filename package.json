@@ -1,0 +1,13 @@
+{
+  "name": "spiritual-library",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A calm, unified reader for the Bhagavad Gita, the Quran, and the Bible.",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^3.90.0"
+  }
+}
