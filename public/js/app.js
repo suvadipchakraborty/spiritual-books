@@ -427,7 +427,7 @@
     const shareData = {
       title: `Ekayana — ${LIBRARY[currentBook].name}`,
       text: `"${els.text.textContent}"\n— ${els.ref.textContent}, ${LIBRARY[currentBook].name}`,
-      url: "https://spiritual.books.suvadipchakraborty.workers.dev/",
+      url: "https://spiritual-books.suvadipchakraborty.workers.dev/",
     };
     try {
       if (navigator.share) await navigator.share(shareData);

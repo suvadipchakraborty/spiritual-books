@@ -54,7 +54,7 @@ npm run dev      # wrangler dev — serves public/ through src/worker.js
 5. Once live, update the absolute URLs in `public/index.html`
    (Open Graph tags) and `public/js/app.js` (share URL) if your final
    domain differs from
-   `https://spiritual.books.suvadipchakraborty.workers.dev/`.
+   `https://spiritual-books.suvadipchakraborty.workers.dev/`.
 
 ## Project structure
 

@@ -7,22 +7,24 @@
   </defs>
   <rect width="1200" height="630" fill="url(#bg)"/>
 
-  <g transform="translate(120,120)" fill="none" stroke="#2F3B63" stroke-width="6" stroke-linecap="round" opacity="0.9">
+  <g transform="translate(122,72) scale(0.62)" fill="none" stroke="#2F3B63" stroke-width="7" stroke-linecap="round" opacity="0.9">
     <path d="M60 40c-40 32-40 92 0 124"/>
     <path d="M60 40c40 32 40 92 0 124"/>
     <path d="M8 82c44 6 90 6 134 0"/>
-    <circle cx="60" cy="66" r="5" fill="#B08D57" stroke="none"/>
+    <circle cx="60" cy="66" r="6" fill="#B08D57" stroke="none"/>
   </g>
 
-  <text x="120" y="330" font-family="Georgia, 'Times New Roman', serif" font-size="96" fill="#21201C">Ekayana</text>
-  <text x="122" y="390" font-family="Georgia, serif" font-size="34" fill="#5B564A">One quiet place to read the</text>
-  <text x="122" y="434" font-family="Georgia, serif" font-size="34" fill="#5B564A">Gita, the Quran &amp; the Bible</text>
+  <text x="120" y="270" font-family="Georgia, 'Times New Roman', serif" font-size="96" fill="#21201C">Ekayana</text>
+  <text x="122" y="330" font-family="Georgia, serif" font-size="34" fill="#5B564A">One quiet place to read the</text>
+  <text x="122" y="374" font-family="Georgia, serif" font-size="34" fill="#5B564A">Gita, the Quran &amp; the Bible</text>
 
-  <g transform="translate(122,486)" font-family="Georgia, serif" font-size="24" fill="#2F3B63">
+  <g transform="translate(122,442)" font-family="Georgia, serif" font-size="24" fill="#2F3B63">
     <text x="0" y="0">Bhagavad Gita</text>
     <text x="260" y="0" fill="#2f5d50">The Quran</text>
     <text x="440" y="0" fill="#5a3e6b">The Bible</text>
   </g>
+
+  <text x="122" y="560" font-family="Georgia, serif" font-size="22" fill="#8a8370">Complete texts · fully offline · spiritual-books.suvadipchakraborty.workers.dev</text>
 
   <rect x="0" y="0" width="1200" height="630" fill="none" stroke="#2F3B63" stroke-opacity="0.08" stroke-width="16"/>
 </svg>
